@@ -9,5 +9,5 @@ simple applications for test purpose
 * copy .env.example to .env
 * setup config in .env
 * run dependency
-`npm install`
+`npm install` and
 `composer install`
