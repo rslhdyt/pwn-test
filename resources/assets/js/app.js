@@ -16,6 +16,17 @@ window.Vue = require('vue');
  */
 
 Vue.component('example-component', require('./components/ExampleComponent.vue'));
+Vue.component('users-page', require('./components/UsersPage.vue'));
+
+// axios.interceptors.response.use(function (response) {
+//     // Do something with response data
+
+
+//     return response;
+// }, function (error) {
+//     // Do something with response error
+//     return Promise.reject(error);
+// });
 
 const app = new Vue({
     el: '#app'
