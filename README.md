@@ -2,6 +2,10 @@
 
 simple applications for test purpose
 
+# prequisite
+nodejs 8.^
+php 7.^
+
 # how to install
 
 * clone this repo
